@@ -24,4 +24,3 @@
 
 1.a. Si no hay datos en el sistema, el mismo mostrará un mensaje de error.
 
-2.a. Si no existen datos de un Alumno, el sistema mostrará un mensaje de error.
