@@ -6,7 +6,7 @@
 
 Como usuario quiero poder eliminar a los alumnos
 
-**Prioridad:** 1
+**Prioridad:** 3
 
 ---
 
