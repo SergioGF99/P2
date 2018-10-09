@@ -4,7 +4,7 @@
 
 ---
 
-La operacion guardar datos guardara los datos
+Como usuario, quiero porder guardar los datos de la base de datos tras haber realizado alguna modificación.
 
 **Prioridad:** 2
 
@@ -13,7 +13,6 @@ La operacion guardar datos guardara los datos
 ## REVERSO
 ---
 
-* Quiero guardar mis datos
-* Quiero que se vea que se guardan mis datos por ejemplo
+* Quiero poder guardar todos los datos.
 
 ---
