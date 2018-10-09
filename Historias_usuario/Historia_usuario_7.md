@@ -6,7 +6,7 @@
 
 Como usuario, quiero porder guardar los datos de la base de datos tras haber realizado alguna modificación. Dichos datos se guardarán en un fichero binario.
 
-**Prioridad:** 2
+**Prioridad:** 1
 
 ---
 
