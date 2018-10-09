@@ -7,7 +7,7 @@
 
 Como usuario quiero poder añadir un alumno en el sistema
 
-**Prioridad:** 3
+**Prioridad:** 1
 
 
 
