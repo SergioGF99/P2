@@ -1,6 +1,6 @@
-#### Buscar datos
+### Buscar datos
 
-**ID:** 002 
+**ID:** 002
 **Breve descripción:** El sistema buscará datos.
 
 **Actores principales:** Usuario/Profesor.
