@@ -4,9 +4,11 @@
 
 **Breve descripción:** El sistema buscará datos.
 
+
 **Actores principales:** Usuario/Profesor.
 
 **Actores secundarios:** Alumnos.
+
 
 **Precondiciones:**
 
