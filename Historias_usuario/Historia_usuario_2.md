@@ -1,6 +1,6 @@
 ## ANVERSO
 
-**ID:** 002 **Borrar datos**
+**ID:** 002 **Buscar**
 
 ---
 
