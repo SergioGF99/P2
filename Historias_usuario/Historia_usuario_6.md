@@ -4,7 +4,7 @@
 
 ---
 
-La operacion "Cargar datos" cargará los datos del sistema de la base de datos.
+Como usuario, quiero poder cargar los datos del sistema de la base de datos.
 
 **Prioridad:** 2
 
