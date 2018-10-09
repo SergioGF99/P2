@@ -21,5 +21,7 @@
 * El sistema muestra los datos del alumno por pantalla.
 
 **Flujos alternativos:**
+
 1.a. Si no hay datos en el sistema, el mismo mostrará un mensaje de error.
+
 2.a. Si no existe el Alumno, el sistema mostrará un mensaje de error.
