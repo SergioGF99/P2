@@ -12,6 +12,8 @@
 
 1. El sistema debe tener datos que guardar.
 
+2.
+
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario vaya a guardar datos o a cerrar el sistema.
 
