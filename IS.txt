@@ -1,3 +1,33 @@
+PLANTILLA QUE VAMOS A USAR PARA LAS HISTORIAS DE USUARIO
+
+
+## ANVERSO
+---
+
+**ID:** 007 **Guardar datos**
+
+##
+
+---
+
+La operacion guardar datos guardara los datos
+
+**Prioridad:** 2
+
+##
+
+## REVERSO
+---
+
+* Quiero guardar mis datos
+* Quiero que se vea que se guardan mis datos por ejemplo
+
+##
+
+
+
+
+----------------------------------------------------------------------------------------------------------
 REQUISITOS
 	ENTES
 	DATOS QUE ALMACENA LA APLICACION
