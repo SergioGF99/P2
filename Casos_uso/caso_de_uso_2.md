@@ -1,4 +1,4 @@
-### Buscar datos
+### Buscar
 
 **ID:** 002
 
