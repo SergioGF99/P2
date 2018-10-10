@@ -12,9 +12,6 @@
 
 1. El sistema debe tener datos que guardar.
 
-2. Los datos introducidos no pueden ser redundantes.
-
-3. No deben existir ni *Primary Keys* ni *Foreigner Keys* nulas.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario vaya a guardar datos o a cerrar el sistema.
