@@ -1,4 +1,4 @@
-## Mostar animal
+## Añadir alumno
 **ID**: 001
 
 **Breve descripción:** El sistema permite añadir a un alumno
