@@ -8,4 +8,12 @@
 
 **Actores secundarios**: Alumnos
 
-**
+**Precondiciones:**
+1. Si el DNI o el correo del nuevo alumnno introducido coinciden con uno ya existente, el sistema indicará un error.
+
+**Flujo principal:**
+1. El caso de uso empieza cuando el usuario quiere introducir un nuevo alumno.
+2. El sistema guarda los datos del nuevo alumno.
+
+**Postcondiciones:**
+1. El sistema mostrará un mensaje de éxito
