@@ -16,9 +16,10 @@
 2. El sistema guarda los datos del nuevo alumno.
 
 **Postcondiciones:**
-* El sistema mostrará un mensaje de éxito
+* El sistema mostrará un mensaje de éxito si todo ha ido correctamente.
 
-**Flujos alternativos:**
+**Flujos alternativos:**  
+
   2.a. Si los datos que se desean guardar coindicen con los de otro alumno, el sistema impedirá que se guarden esos datos y pedirá unos nuevos.
 
 
