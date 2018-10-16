@@ -9,6 +9,7 @@
 
 **Precondiciones:**
 1. Si el DNI o el correo del nuevo alumnno introducido coinciden con uno ya existente, el sistema indicará un error.
+2. Si queremos introducir un alumno que sea lider en un grupo en el que ya hay un lider, el sistema mostrará un error.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere introducir un nuevo alumno.
