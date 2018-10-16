@@ -1,12 +1,12 @@
 ## Mostar animal
 **ID**: 001
 
-**Breve descripción**: El sistema permite añadir a un alumno
+**Breve descripción:** El sistema permite añadir a un alumno
 
 
-**Actores principales**: Profesores
+**Actores principales:** Profesores
 
-**Actores secundarios**: Alumnos
+**Actores secundarios:** Alumnos
 
 **Precondiciones:**
 1. Si el DNI o el correo del nuevo alumnno introducido coinciden con uno ya existente, el sistema indicará un error.
@@ -17,3 +17,8 @@
 
 **Postcondiciones:**
 1. El sistema mostrará un mensaje de éxito
+
+**Flujos alternativos:**
+2.a. Si los datos que se desean guardar coindicen con los de otro alumno, el sistema impedirá que se guarden esos datos y pedirá unos nuevos.
+
+
