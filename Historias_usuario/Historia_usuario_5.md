@@ -1,6 +1,6 @@
 ## ANVERSO
 
-**ID:** 005 **Mostrar datos**
+**ID:** 005 **Mostrar usuario**
 
 ---
 
