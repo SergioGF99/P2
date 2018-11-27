@@ -18,10 +18,10 @@
 2. El sistema busca los datos del alumno.
 
 **Postcondiciones:**
-* El sistema muestra los datos del alumno por pantalla.
+* El sistema muestra un mensaje de éxito al encontrar en el sistema al alumno.
 
 **Flujos alternativos:**
 
-1.a. Si no hay datos en el sistema, el mismo mostrará un mensaje de error.
+1.a. Si no hay datos en el sistema, el mismo mostrará un mensaje de error, y redireccionará al usuario al menú principal.
 
-2.a. Si no existe el Alumno, el sistema mostrará un mensaje de error.
+2.a. Si no existe el Alumno, el sistema mostrará un mensaje de error, y preguntará al usuario si quiere volver al menú principal o quiere buscar a otro alumno.
