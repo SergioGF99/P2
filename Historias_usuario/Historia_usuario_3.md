@@ -1,6 +1,6 @@
 ## ANVERSO
 
-**ID:** 003 **Modificar datos**
+**ID:** 003 **Modificar alumno**
 
 ---
 
