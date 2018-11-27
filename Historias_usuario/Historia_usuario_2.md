@@ -4,7 +4,7 @@
 
 ---
 
-Como usuario, quiero buscar a los alumnos, ya sea a través del DNI, del apellido o a través del grupo. 
+Como usuario, quiero buscar a los alumnos, ya sea a través del DNI o del apellido. 
 
 **Prioridad:2** 
 
