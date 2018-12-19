@@ -2,7 +2,7 @@
 
 **ID:** 008
 
-**Breve descripción:** El sistema perimite o no la entrada al mismo.
+**Breve descripción:** El sistema permite o no la entrada al mismo.
 
 **Actores principales:** Profesor.
 
@@ -19,4 +19,4 @@
 
 **Flujos alternativos:**
 
-1.a. Si los datos no coinciden con los que hay en el fichero binario, el sistema muestra un mensaje diciendo que los datos introducidos son incorrectos.
+1.a. Si los datos no coinciden con los que hay en el fichero binario, el sistema pide nuevamente que se introduzca el usuario y contraseña.
