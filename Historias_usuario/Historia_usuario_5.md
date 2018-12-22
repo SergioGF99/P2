@@ -4,7 +4,7 @@
 
 ---
 
-El sistema dará la posibilidad al usuario de visualizar el contenido
+Como usuario, quiero visualizar el contenido.
 
 **Prioridad:** 1
 
